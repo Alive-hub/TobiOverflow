@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TobiOverflow
-- 👀 I’m interested in 3D Graphics and Coding 
+- 👀 I’m interested in creating things in 3D / Code 
 - 🌱 I’m currently learning Blender && Python
 - 💞️ I’m looking to collaborate on 3D Projects
 - 📫 How to reach me: Discord: Tobi_#2622
