@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TobiOverflow
-- 👀 I’m interested in creating things in 3D / Code 
-- 🌱 I’m currently learning Blender && Python
-- 💞️ I’m looking to collaborate on 3D Projects
+- 👀 I’m interested in Motion Graphics & Coding
+- 🌱 I’m currently using Java, After Effects, Blender
+- 💞️ I’m looking to collaborate on Motion Graphics, Animation, Coding 
 - 📫 How to reach me: Discord: Tobi_#2622
 
 <!---
