@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TobiOverflow
+- 👋 Hi, I’m @Tobi
 - 👀 I’m interested in Animation & AR 
 - 🌱 I’m currently using JS, C#, Unity, Blender
 - 📫 How to reach me: Youtube: Alive Studios 
